@@ -1,0 +1,11 @@
+{
+  "name": "create-sin",
+  "version": "0.0.0",
+  "bin": "index.sh",
+  "scripts": {
+    "test": "echo some day"
+  },
+  "dependencies": {
+    "sin": "github:porsager/sin"
+  }
+}
